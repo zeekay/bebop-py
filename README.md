@@ -1,5 +1,7 @@
 Bebop
 =====
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zeekay/bebop-py.svg)](https://greenkeeper.io/)
 A tool for rapid web development which bundles a static file server, file watcher, WebSocket server for automatically reloading assets and interfacing with browser/server Javascript applications.
 
 Installation
